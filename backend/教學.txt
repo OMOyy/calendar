@@ -1,0 +1,3 @@
+https://steam.oxxostudio.tw/category/python/example/excel-read.html
+
+https://www.learncodewithmike.com/2020/12/read-excel-file-using-pandas.html
