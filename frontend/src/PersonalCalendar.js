@@ -1,7 +1,16 @@
 import React from 'react'
+import CalendarRow from './CalendarRow';
 const PersonalCalendar = () => {
   return (
-    <div>PersonalCalendar</div>
+    <>
+    <CalendarRow/>
+    <CalendarRow/>
+    <CalendarRow/>
+    <CalendarRow/>
+    <CalendarRow/>
+    <CalendarRow/>
+    <CalendarRow/>
+    </>
   )
 }
 export default PersonalCalendar
